@@ -126,6 +126,7 @@ fi
 
 # Aliases
 alias python="~/Python/Anaconda3/bin/python"
+alias python3="python3.7"
 alias pylint="pylint3"
 
 # Don't forget to push this file to dotfiles repo after making any changes!
