@@ -124,9 +124,11 @@ if [ -x /usr/bin/mint-fortune ]; then
      /usr/bin/mint-fortune
 fi
 
-# Aliases
-alias python="~/Python/Anaconda3/bin/python"
-alias python3="python3.7"
+# Python aliases
+alias python3.7="~/Python/Anaconda3/bin/python"
+alias python="python3.6"
+alias python3="python3.6"
 alias pylint="pylint3"
+alias pip="pip3"
 
 # Don't forget to push this file to dotfiles repo after making any changes!
