@@ -125,7 +125,7 @@ if [ -x /usr/bin/mint-fortune ]; then
 fi
 
 # Python aliases
-alias python3.7="~/Python/Anaconda3/bin/python"
+alias python3.7="~/Python/anaconda3/bin/python"
 alias python="python3.6"
 alias python3="python3.6"
 alias pylint="pylint3"
