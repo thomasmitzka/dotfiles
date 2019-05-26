@@ -124,6 +124,9 @@ if [ -x /usr/bin/mint-fortune ]; then
      /usr/bin/mint-fortune
 fi
 
+# 256 color support for VIM color schemes
+export TERM=xterm-256color
+
 # Python aliases
 alias python3.7="~/Python/anaconda3/bin/python"
 alias python="python3.6"
