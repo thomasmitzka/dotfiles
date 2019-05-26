@@ -1,9 +1,9 @@
 # dotfiles
-These are some of my .dotfiles for Linux Mint.
+These are some of my GNU/Linux dotfiles.
 Having them in a repository makes it easier to create
 a familiar environment on new systems.
 
-There are config files for:
+Currently, there are config files for:
 
 * Bash
 * Redshift
