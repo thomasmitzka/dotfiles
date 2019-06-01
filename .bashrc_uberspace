@@ -124,5 +124,3 @@ fi
 # Aliases
 alias quota="quota -gsl"
 alias python="python3.6"
-
-# Don't forget to push this file to dotfiles repo after making any changes!
