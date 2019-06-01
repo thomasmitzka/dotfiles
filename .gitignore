@@ -1,2 +1,4 @@
-.vim/.netrwhist
 .config/filezilla
+.gnupg
+.ssh
+.vim/.netrwhist
