@@ -7,4 +7,5 @@ Currently, there are config files for:
 
 * Bash
 * Redshift
+* Safe Eyes
 * VIM
