@@ -128,6 +128,9 @@ fi
 export TERM=xterm-256color
 
 # Python aliases
-alias python="~/Python/anaconda3/bin/python"
+alias python="python3.8"
+alias python3="python3.8"
+alias pip="pip3.8"
+alias python3.7="~/Python/anaconda3/bin/python"
 
 # Don't forget to push this file to dotfiles repo after making any changes!
