@@ -127,10 +127,11 @@ fi
 # 256 color support for VIM color schemes
 export TERM=xterm-256color
 
-# Python aliases
+# Python aliases for version 3.8
 alias python="python3.8"
 alias python3="python3.8"
 alias pip="pip3.8"
 alias python3.7="~/Python/anaconda3/bin/python"
+alias pylint="pylint3"
 
 # Don't forget to push this file to dotfiles repo after making any changes!
