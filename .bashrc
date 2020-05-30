@@ -132,7 +132,7 @@ alias python="python3.8"
 alias python3="python3.8"
 alias pip="pip3.8"
 alias python3.7="~/Python/anaconda3/bin/python"
-alias anaconda-python"~/Python/anaconda3/bin/python"
+alias anaconda-python="~/Python/anaconda3/bin/python"
 alias pylint="pylint3"
 
 # Don't forget to push this file to dotfiles repo after making any changes!
